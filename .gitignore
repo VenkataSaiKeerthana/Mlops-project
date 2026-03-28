@@ -1,5 +1,5 @@
 pyvenv.cfg
 
-bin
-lib
-include
+.bin/
+.lib/
+.include/
